@@ -13,6 +13,7 @@ body{
   font-size: 10px;
   overflow: hidden;
   font-family: 'Ubuntu', sans-serif;
+  height: 4000rem
 }
 
 ul{list-style: none;}
