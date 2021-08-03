@@ -13,7 +13,6 @@ body{
   font-size: 10px;
   overflow: hidden;
   font-family: 'Ubuntu', sans-serif;
-  height: 4000rem
 }
 
 ul{list-style: none;}
@@ -183,7 +182,7 @@ a{text-decoration: none}
 
   .overview nav .links ul li:not(:last-of-type){border-bottom: 2px solid var(--main-color)}
 
-  .overview .container p{font-size: 4.75rem}
+  .overview .container p{font-size: 3.5rem}
 
 }
 
